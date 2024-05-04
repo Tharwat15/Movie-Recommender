@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Movie Recommender</title>
-</head>
-<body>
-    <h1>Movie Recommender</h1>
+<h1>Movie Recommender</h1>
 
 <p>This is a movie recommender system that detects the similarity between movies based on their descriptions. It utilizes TF-IDF (Term Frequency-Inverse Document Frequency) to represent each movie's description as a numerical vector, and then calculates the cosine similarity between these vectors to identify similar movies.</p>
 
@@ -23,5 +15,3 @@
    <h2>Dataset</h2>
     <p>The movie dataset used in this project (<code>tmdb_5000_movies.csv</code>) can be found at <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv">link to dataset</a>.</p>
     
-</body>
-</html>
