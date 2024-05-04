@@ -1,5 +1,11 @@
-<title>Movie Recommender</title>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Recommender</title>
+</head>
+<body>
     <h1>Movie Recommender</h1>
 
     <p>This is a movie recommender system that detects the similarity between movies based on their descriptions. It utilizes TF-IDF (Term Frequency-Inverse Document Frequency) to represent each movie's description as a numerical vector, and then calculates the cosine similarity between these vectors to identify similar movies.</p>
@@ -21,5 +27,5 @@
     <h2>Credits</h2>
 
     <p>This project was developed by [Your Name]. Feel free to reach out with any questions or feedback!</p>
-
-
+</body>
+</html>
