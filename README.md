@@ -21,7 +21,7 @@
     </ol>
 
    <h2>Dataset</h2>
-    <p>The movie dataset used in this project (<code>tmdb_5000_movies.csv</code>) can be found at <a href="link_to_dataset">link to dataset</a>.</p>
+    <p>The movie dataset used in this project (<code>tmdb_5000_movies.csv</code>) can be found at <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv">link to dataset</a>.</p>
     <h2>Credits</h2>
     <p>This project was developed by [Your Name]. Feel free to reach out with any questions or feedback!</p>
 </body>
